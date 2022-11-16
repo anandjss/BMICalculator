@@ -1,5 +1,11 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
+
+/**
+ * Coverts height in feet and weight in pounds to height in meters and weight in kgs and calculates the BMI based on these parameters
+ * @version 11/16/22
+ * @author 24jayashankar
+ */
 public class BMICalculator {
     /**
      * Convert English to metric units, perform the BMI calculation.
